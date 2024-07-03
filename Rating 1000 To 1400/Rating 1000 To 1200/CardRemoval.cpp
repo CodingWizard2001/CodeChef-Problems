@@ -9,7 +9,7 @@ int main() {
     cin>>testCase;
     while(testCase--){
         int size;
-    // cout<<"Enter the size of the array : ";
+    	// cout<<"Enter the size of the array : ";
         cin>>size;
         int arr[size];
         map<int,int>m;
