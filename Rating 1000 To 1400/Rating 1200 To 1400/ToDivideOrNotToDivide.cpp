@@ -4,12 +4,11 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-
 int main() {
-	// your code goes here
-    int t;
-    cin>>t;
-    while(t--){
+	int testCase;
+    // cout<<"Enter the no. of test cases : ";
+    cin>>testCase;
+    while(testCase--){
         long long a,b,n;
         cin>>a>>b>>n;
         
